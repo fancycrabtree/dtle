@@ -18,7 +18,7 @@ for details on submitting patches and the contribution workflow.
 ## Community
 
 * QQ group: 852990221
-* WeChat subscription "Actiontech opensource community" ,to get more dtle information
+* WeChat subscribe "Actiontech opensource community" ,to get more dtle information
 
   ![QR code](./misc/action-opensource-community.png)
 

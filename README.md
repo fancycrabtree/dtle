@@ -18,7 +18,7 @@ for details on submitting patches and the contribution workflow.
 ## Community
 
 * QQ group: 852990221
-* 微信关注「爱可生开源社区」，获取更多dtle资讯
+* WeChat subscription "Actiontech opensource community" ,to get more dtle information
 
   ![QR code](./misc/action-opensource-community.png)
 
